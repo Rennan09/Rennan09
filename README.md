@@ -1,8 +1,10 @@
 
-### Olá! Me chamo Rennan 👋
+## Olá! Me chamo Rennan 👋
+
+### Minhas redes sociais:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rennancarvalho@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rennan-carvalho-02657a29b/)
-### Estou em busca de me tornar um desenvolvedor
+### Estou em busca de me tornar um desenvolvedor 
 
 ### Tecnolgia(s) que utilizo
 <div style="display: inline_block"><br/>
