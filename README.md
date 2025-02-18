@@ -1,17 +1,52 @@
 
-## Olá! Me chamo Rennan 👋
+# Rennan09 
 
-### Minhas redes sociais:
+###
+### 🌐 Minhas redes sociais:
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rennancarvalho@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rennan-carvalho-02657a29b/)
-### Estou em busca de me tornar um desenvolvedor 
 
-### Tecnolgia(s) que utilizo
+### 💻 Tecnolgias que utilizo:
 <div style="display: inline_block"><br/>
-    <img align="center" alt ="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-     <img align="center" alt ="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img
+        aling="left"
+        alt="Python"
+        title="Python"
+        width="30px"
+        style="padding right: 10px;"
+        scr= <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
+        <img
+        aling="left"
+        alt="Python"
+        title="Python"
+        width="30px"
+        style="padding right: 10px;"
+        scr= <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+            <img
+        aling="left"
+        alt="Python"
+        title="Python"
+        width="30px"
+        style="padding right: 10px;"
+        scr= <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
 </div><br/>
 
-### Stats:
+### 📊 Stats:
+<p>
+    <img
+    aling="left"
+    alt="GitHub Stats"
+    heigth="200"
+    style="padding-rigth: 100px;"
+    src="https://github-readme-stats.vercel.app/api?username=Rennan09&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    />
+    <br>
+    <img
+    aling="left"
+    alt="GitHub Stats"
+    heigth="200"
+    style="padding-rigth: 100px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rennan09&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7"
+    />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rennan09&theme=transparent&bg_color=000&border_color=600E6C&show_icons=true&icon_color=00A205&title_color=600E6C&text_color=FFF)
