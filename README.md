@@ -16,12 +16,6 @@
         style="padding right: 10px;"
         scr= <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
         <img
-        aling="left"
-        alt="Python"
-        title="Python"
-        width="30px"
-        style="padding right: 10px;"
-        scr= <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
             <img
         aling="left"
         alt="Python"
